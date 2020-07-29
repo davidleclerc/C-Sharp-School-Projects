@@ -1,0 +1,6 @@
+C:\Users\BIG BOY DAVER\source\repos\CounterSort\CounterSort\bin\Debug\CounterSort.exe.config
+C:\Users\BIG BOY DAVER\source\repos\CounterSort\CounterSort\bin\Debug\CounterSort.exe
+C:\Users\BIG BOY DAVER\source\repos\CounterSort\CounterSort\bin\Debug\CounterSort.pdb
+C:\Users\BIG BOY DAVER\source\repos\CounterSort\CounterSort\obj\Debug\CounterSort.csprojAssemblyReference.cache
+C:\Users\BIG BOY DAVER\source\repos\CounterSort\CounterSort\obj\Debug\CounterSort.exe
+C:\Users\BIG BOY DAVER\source\repos\CounterSort\CounterSort\obj\Debug\CounterSort.pdb

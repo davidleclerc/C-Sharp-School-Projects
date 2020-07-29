@@ -1,0 +1,6 @@
+C:\Users\BIG BOY DAVER\source\repos\LinkBasedQueue\LinkBasedQueue\bin\Debug\LinkBasedQueue.exe.config
+C:\Users\BIG BOY DAVER\source\repos\LinkBasedQueue\LinkBasedQueue\bin\Debug\LinkBasedQueue.exe
+C:\Users\BIG BOY DAVER\source\repos\LinkBasedQueue\LinkBasedQueue\bin\Debug\LinkBasedQueue.pdb
+C:\Users\BIG BOY DAVER\source\repos\LinkBasedQueue\LinkBasedQueue\obj\Debug\LinkBasedQueue.csprojAssemblyReference.cache
+C:\Users\BIG BOY DAVER\source\repos\LinkBasedQueue\LinkBasedQueue\obj\Debug\LinkBasedQueue.exe
+C:\Users\BIG BOY DAVER\source\repos\LinkBasedQueue\LinkBasedQueue\obj\Debug\LinkBasedQueue.pdb

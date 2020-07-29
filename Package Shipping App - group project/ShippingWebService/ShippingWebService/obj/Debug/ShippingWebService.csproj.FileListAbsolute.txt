@@ -1,0 +1,6 @@
+C:\Users\BIG BOY DAVER\Source\Workspaces\G3-CIS151-101\ShippingWebService\ShippingWebService\bin\ShippingWebService.dll.config
+C:\Users\BIG BOY DAVER\Source\Workspaces\G3-CIS151-101\ShippingWebService\ShippingWebService\bin\ShippingWebService.dll
+C:\Users\BIG BOY DAVER\Source\Workspaces\G3-CIS151-101\ShippingWebService\ShippingWebService\bin\ShippingWebService.pdb
+C:\Users\BIG BOY DAVER\Source\Workspaces\G3-CIS151-101\ShippingWebService\ShippingWebService\obj\Debug\ShippingWebService.csprojAssemblyReference.cache
+C:\Users\BIG BOY DAVER\Source\Workspaces\G3-CIS151-101\ShippingWebService\ShippingWebService\obj\Debug\ShippingWebService.dll
+C:\Users\BIG BOY DAVER\Source\Workspaces\G3-CIS151-101\ShippingWebService\ShippingWebService\obj\Debug\ShippingWebService.pdb

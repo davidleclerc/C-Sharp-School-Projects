@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29519.87
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BTSearch", "BTSearch\BTSearch.csproj", "{A663F3F7-2967-4075-8F79-9072D9049D4A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A663F3F7-2967-4075-8F79-9072D9049D4A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A663F3F7-2967-4075-8F79-9072D9049D4A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A663F3F7-2967-4075-8F79-9072D9049D4A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A663F3F7-2967-4075-8F79-9072D9049D4A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FFA0E315-9BEF-4FC0-B297-39B62DD69D26}
+	EndGlobalSection
+EndGlobal

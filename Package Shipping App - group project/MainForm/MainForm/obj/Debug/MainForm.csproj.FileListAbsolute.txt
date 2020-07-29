@@ -1,0 +1,11 @@
+C:\Users\BIG BOY DAVER\Source\Workspaces\G3-CIS151-101\MainForm\MainForm\bin\Debug\MainForm.exe.config
+C:\Users\BIG BOY DAVER\Source\Workspaces\G3-CIS151-101\MainForm\MainForm\bin\Debug\MainForm.exe
+C:\Users\BIG BOY DAVER\Source\Workspaces\G3-CIS151-101\MainForm\MainForm\bin\Debug\MainForm.pdb
+C:\Users\BIG BOY DAVER\Source\Workspaces\G3-CIS151-101\MainForm\MainForm\obj\Debug\MainForm.csprojAssemblyReference.cache
+C:\Users\BIG BOY DAVER\Source\Workspaces\G3-CIS151-101\MainForm\MainForm\obj\Debug\MainForm.Form1.resources
+C:\Users\BIG BOY DAVER\Source\Workspaces\G3-CIS151-101\MainForm\MainForm\obj\Debug\MainForm.Properties.Resources.resources
+C:\Users\BIG BOY DAVER\Source\Workspaces\G3-CIS151-101\MainForm\MainForm\obj\Debug\MainForm.csproj.GenerateResource.cache
+C:\Users\BIG BOY DAVER\Source\Workspaces\G3-CIS151-101\MainForm\MainForm\obj\Debug\MainForm.exe
+C:\Users\BIG BOY DAVER\Source\Workspaces\G3-CIS151-101\MainForm\MainForm\obj\Debug\MainForm.pdb
+C:\Users\BIG BOY DAVER\Source\Workspaces\G3-CIS151-101\MainForm\MainForm\obj\Debug\MainForm.Label.resources
+C:\Users\BIG BOY DAVER\Source\Workspaces\G3-CIS151-101\MainForm\MainForm\obj\Debug\MainForm.InvoiceForm.resources

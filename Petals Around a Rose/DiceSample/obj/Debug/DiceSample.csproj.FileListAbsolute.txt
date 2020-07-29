@@ -1,0 +1,10 @@
+C:\Users\BIG BOY DAVER\Source\Workspaces\CIS150Project\Dice\DiceSample\bin\Debug\DiceSample.exe.config
+C:\Users\BIG BOY DAVER\Source\Workspaces\CIS150Project\Dice\DiceSample\bin\Debug\DiceSample.exe
+C:\Users\BIG BOY DAVER\Source\Workspaces\CIS150Project\Dice\DiceSample\bin\Debug\DiceSample.pdb
+C:\Users\BIG BOY DAVER\Source\Workspaces\CIS150Project\Dice\DiceSample\obj\Debug\DiceSample.csprojAssemblyReference.cache
+C:\Users\BIG BOY DAVER\Source\Workspaces\CIS150Project\Dice\DiceSample\obj\Debug\DiceSample.Form1.resources
+C:\Users\BIG BOY DAVER\Source\Workspaces\CIS150Project\Dice\DiceSample\obj\Debug\DiceSample.Properties.Resources.resources
+C:\Users\BIG BOY DAVER\Source\Workspaces\CIS150Project\Dice\DiceSample\obj\Debug\DiceSample.csproj.GenerateResource.cache
+C:\Users\BIG BOY DAVER\Source\Workspaces\CIS150Project\Dice\DiceSample\obj\Debug\DiceSample.csproj.CoreCompileInputs.cache
+C:\Users\BIG BOY DAVER\Source\Workspaces\CIS150Project\Dice\DiceSample\obj\Debug\DiceSample.exe
+C:\Users\BIG BOY DAVER\Source\Workspaces\CIS150Project\Dice\DiceSample\obj\Debug\DiceSample.pdb
